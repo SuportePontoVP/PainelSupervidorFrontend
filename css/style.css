@@ -6,7 +6,7 @@
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
-    background-image: url(/frontend/assets/images/S.png);
+    background-image: url(/assets/images/S.png);
     background-repeat: no-repeat;
     background-size: cover;
     backdrop-filter: blur(10px);
